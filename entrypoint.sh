@@ -2,7 +2,7 @@
 
 # 设置各变量，WS 路径前缀。(注意:伪装路径不需要 / 符号开始,为避免不必要的麻烦,请不要使用特殊符号.)
 WSPATH=${WSPATH:-'ecdeb434'}
-UUID=${UUID:-'f1ecfdbc-d243-4601-8850-b8c6bef5ed48'}
+UUID=${UUID:-'8ba8b78f-deac-4b9a-8542-2639c84b4f9d'}
 
 # 安装系统依赖
 check_dependencies() {
